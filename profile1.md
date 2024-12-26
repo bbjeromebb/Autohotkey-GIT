@@ -25,4 +25,3 @@
 ## Contact
 - **Email:** [Your Email]
 - **GitHub:** [Your GitHub Profile]
-- **LinkedIn:** [Your LinkedIn Profile]
