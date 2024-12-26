@@ -8,11 +8,7 @@
 ## Skills
 - **Programming Languages:** 
     - AutoHotkey
-    - [Other Languages]
-- **Tools & Technologies:**
-    - Git
-    - [Other Tools]
-
+    
 ## Projects
 - **Project 1:** [Project Name]
     - **Description:** [Brief description of the project]
